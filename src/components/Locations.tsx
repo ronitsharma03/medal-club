@@ -9,7 +9,7 @@ export function Locations() {
           <div className="bg-white p-8 rounded-lg shadow-lg">
             <h3 className="text-2xl font-semibold mb-4 flex items-center">
               <MapPin className="w-6 h-6 mr-2 text-yellow-400" />
-              Pune HQ
+              Pune
             </h3>
             <div className="relative h-[300px] rounded-lg overflow-hidden">
               <img
