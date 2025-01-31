@@ -9,17 +9,17 @@ export function Contact() {
           <div>
             <h3 className="text-2xl font-semibold mb-6">Get in Touch</h3>
             <div className="space-y-4">
-              <p className="flex items-center">
+{/*               <p className="flex items-center">
                 <Phone className="w-5 h-5 mr-3 text-yellow-400" />
-                +91 1234567890
-              </p>
+                +91 97
+              </p> */}
               <p className="flex items-center">
                 <Mail className="w-5 h-5 mr-3 text-yellow-400" />
-                contact@medalclub.in
+                medalclubhelp@gmail.com
               </p>
               <p className="flex items-center">
                 <MapPin className="w-5 h-5 mr-3 text-yellow-400" />
-                123 Sports Complex, Pune, Maharashtra
+                Pune, Maharashtra
               </p>
             </div>
             <div className="mt-8 flex space-x-4">
